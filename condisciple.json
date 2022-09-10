@@ -4,5 +4,16 @@
   "artist": "baegyeong-eosi",
   "author": "dodo",
   "cover": "https://drive.google.com/file/d/1WX3Ur_C7kkrveRkf6zrjDELu8En7eK40/view?usp=sharing",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "chapter 1",
+      "volume": "",
+      "last_updated": "1662806962",
+      "groups": {
+        "XENIAMANHWA": [
+          "https://drive.google.com/drive/folders/10dDpavHRTAcJCNWIPkgeJf4QVXz4J6CJ?usp=sharing"
+        ]
+      }
+    }
+  }
 }
