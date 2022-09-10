@@ -1,17 +1,17 @@
 {
-  "title": "<condisciple>",
-  "description": "<“What’s the probability of seeing her again after graduation?” Min-gi has an unexpected reunion with So-yul, the girl who had made his heart jump back in high school. Now his heart leaps when he’s in the presence of so-yul, who is now more daring than she was back in high school.>",
-  "artist": "<background fish>",
-  "author": "<dodo.",
-  "cover": "<https://imgur.com/a/soHa2Y6>",
+  "title": "condisciple",
+  "description": "“What’s the probability of seeing her again after graduation?” Min-gi has an unexpected reunion with So-yul, the girl who had made his heart jump back in high school. Now his heart leaps when he’s in the presence of so-yul, who is now more daring than she was back in high school.",
+  "artist": "background fish",
+  "author": "dodo",
+  "cover": "https://imgur.com/a/soHa2Y6",
   "chapters": {
     "<1>": {
       "title": "<chapter 1>",
       "volume": "<>",
+      "last_updated": "1616368746",
       "groups": {
         "<Xeniamanhwa>": "/proxy/api/imgur/chapter/<hmQoeon>/"
-      },
-      "last_updated": "1616368746"
+      }
     }
   }
 }
